@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: whisky
 title:  "Talisker Dark Storm"
 date:   2018-03-22 20:40:43 +0100
 categories: Scotland Island Skye Talisker
