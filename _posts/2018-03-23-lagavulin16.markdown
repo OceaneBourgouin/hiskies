@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Lagavulin 16 year old"
+date:   2018-03-22 20:40:43 +0100
+categories: Scotland Islay
+price : 51€
+rating : 3
+nose : ping
+palate : pong
+finish : pang
+published: true
+---
+
+_Because it's always nice to start with a good bottle_
+
+![{{ page.title }}]({{ "/assets/bottles/lagavulin16.jpg" | absolute_url }})
+
+Provenance :
+{{ page.categories }}
+
+Prix :
+{{ page.price }}
+
+Note :
+{{ page.rating }}
+
+Nez :
+{{ page.nose }}
+
+Bouche :
+{{ page.palate }}
+
+Note :
+{{ page.finish }}
+
+> _**TODO:** Create a default `layout` for all whiskies. Please, have a look at [jekyll-default]._
+
+[jekyll-default]: https://jekyllrb.com/docs/configuration/#default-configuration
