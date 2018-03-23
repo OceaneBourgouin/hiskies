@@ -1,5 +1,8 @@
 > [Hiskies is here](https://oceanebourgouin.github.io/hiskies/)
 
+## Jekyll tutorials
+
+[Check it here](https://www.youtube.com/watch?v=T1itpPvFWHI&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB)
 
 ## Welcome to GitHub Pages
 
