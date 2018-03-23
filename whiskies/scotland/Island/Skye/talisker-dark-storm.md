@@ -1,18 +1,15 @@
 ---
-layout: post
-title:  "Lagavulin 16 year old"
+layout: page
+title:  "Talisker Dark Storm"
 date:   2018-03-22 20:40:43 +0100
-categories: Scotland Islay Lagavulin
-price : 51€
-rating : 3
-nose : ping
-palate : pong
-finish : pang
+categories: Scotland Island Skye Talisker
+price : 78€
+rating : 0
+nose : Smoky bacon, black pepper and red chili, dressed with a touch of orchard fruit and golden malt.
+palate : Huge oak influence, with a big burst of smoke on palate entry. Beyond that, though, you find red fruit, citrus and fresh honey.
+finish : A very, very long finish, peppered with honey-roasted nuts.
 published: true
-permalink: /:categories/:title
 ---
-
-_Because it's always nice to start with a good bottle_
 
 ![{{ page.title }}]({{ "/assets/bottles/lagavulin16.jpg" | absolute_url }})
 
